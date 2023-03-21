@@ -1,0 +1,144 @@
+{
+    "news articles": [
+        {
+            "Content": "Asian Games in China postponed because of Covid-19",
+            "Country": "China",
+            "Date": "6/5/22",
+            "Type": "BBC News",
+            "Source": "https://www.bbc.co.uk/sport/61345031"
+        },
+        {
+            "Content": "Asian Cup 2023: China withdraws as host due to Covid-19",
+            "Country": "China",
+            "Date": "14/5/22",
+            "Type": "BBC News",
+            "Source": "https://www.bbc.co.uk/sport/football/61448472"
+        },
+        {
+            "Content": "A warming world gives viruses more chances to hitchhike from species to species",
+            "Country": "World",
+            "Date": "28/4/22",
+            "Type": "The Verge",
+            "Source": "https://www.theverge.com/2022/4/28/23044725/climate-change-zoonotic-virus-spillover"
+        },
+        {
+            "Content": "Here\u2019s Why Tallies of U.S. Covid Deaths Aren\u2019t All the Same",
+            "Country": "United States",
+            "Date": "19/5/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/2022/05/19/us/covid-death-count.html"
+        },
+        {
+            "Content": "White House Plans for How to Provide Vaccines if No More Covid Aid",
+            "Country": "World",
+            "Date": "7/5/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/2022/05/06/us/politics/covid-aid-vaccines-white-house.html"
+        },
+        {
+            "Content": "Here\u2019s Why Tallies of U.S. Covid Deaths Aren\u2019t All the Same",
+            "Country": "United States",
+            "Date": "20/5/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/2022/05/20/us/covid-death-count.html"
+        },
+        {
+            "Content": "Why Adams Is Rejecting Mask Mandates as Covid Cases Rise in New York",
+            "Country": "United States",
+            "Date": "19/5/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/2022/05/19/nyregion/adams-mask-mandate-covid-new-york.html"
+        },
+        {
+            "Content": "F.D.A. Expected to Soon Clear Pfizer Booster for Children Ages 5 to 11",
+            "Country": "United States",
+            "Date": "16/5/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/2022/05/16/us/politics/fda-pfizer-booster-children.html"
+        },
+        {
+            "Content": "Most of Us Have Had Covid",
+            "Country": "World",
+            "Date": "28/4/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/2022/04/28/podcasts/the-daily/most-of-us-have-had-covid.html"
+        },
+        {
+            "Content": "10 Things to Know Before You Build a Desktop",
+            "Country": "World",
+            "Date": "22/4/22",
+            "Type": "Gizmodo.com",
+            "Source": "https://gizmodo.com/10-desktop-build-tips-nvidia-amd-intel-pcpartpicker-1848825797"
+        },
+        {
+            "Content": "Setback for Shanghai's COVID battle as Beijing ramps up mass testing | Pictures - Reuters",
+            "Country": "China",
+            "Date": "3/5/22",
+            "Type": "Reuters",
+            "Source": "https://www.reuters.com/news/picture/setback-for-shanghais-covid-battle-as-be-idUSRTS7K2U1"
+        },
+        {
+            "Content": "Shanghai hunkers down for final COVID battle, Beijing outbreak stubborn - Reuters.com",
+            "Country": "China",
+            "Date": "16/5/22",
+            "Type": "Reuters",
+            "Source": "https://www.reuters.com/news/picture/shanghai-hunkers-down-for-final-covid-ba-idUSRTS7W5XF"
+        },
+        {
+            "Content": "Pandemic not over, U.S. unlikely to eliminate COVID-19 -Fauci - Reuters",
+            "Country": "United States",
+            "Date": "29/4/22",
+            "Type": "Reuters",
+            "Source": "https://www.reuters.com/world/us/pandemic-not-over-us-unlikely-eliminate-covid-19-fauci-2022-04-29/"
+        },
+        {
+            "Content": "Here\u2019s Why Tallies of U.S. Covid Deaths Aren\u2019t All the Same",
+            "Country": "United States",
+            "Date": "20/5/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/live/2022/05/20/world/covid-19-deaths-vaccines-cases"
+        },
+        {
+            "Content": "Here\u2019s Why Tallies of U.S. Covid Deaths Aren\u2019t All the Same",
+            "Country": "United States",
+            "Date": "20/5/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/live/2022/05/20/world/covid-19-mandates-vaccines-cases"
+        },
+        {
+            "Content": "China slightly eases COVID test rules for travellers from U.K. - Reuters",
+            "Country": "China",
+            "Date": "19/5/22",
+            "Type": "Reuters",
+            "Source": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-slightly-eases-covid-test-rules-travellers-uk-2022-05-19/"
+        },
+        {
+            "Content": "COVID shows need for better information sharing early in pandemics, UK's Javid says - Reuters",
+            "Country": "United Kingdom",
+            "Date": "18/5/22",
+            "Type": "Reuters",
+            "Source": "https://www.reuters.com/business/healthcare-pharmaceuticals/covid-shows-need-better-information-sharing-early-pandemics-uks-javid-says-2022-05-18/"
+        },
+        {
+            "Content": "Uber and Lyft Drivers Must Now Set Their Own Mask Rules",
+            "Country": "World",
+            "Date": "5/5/22",
+            "Type": "Wired",
+            "Source": "https://www.wired.com/story/uber-lyft-driver-masks/"
+        },
+        {
+            "Content": "Eric Clapton cancels shows after testing positive for COVID-19",
+            "Country": "World",
+            "Date": "18/5/22",
+            "Type": "NPR",
+            "Source": "https://www.npr.org/2022/05/18/1099842280/eric-clapton-covid-cancels-shows"
+        },
+        {
+            "Content": "Citing Safety Concerns, F.D.A. Further Limits J.&J. Covid Vaccine",
+            "Country": "United States",
+            "Date": "6/5/22",
+            "Type": "New York Times",
+            "Source": "https://www.nytimes.com/live/2022/05/06/world/covid-19-mandates-vaccine-cases"
+        }
+    ]
+}

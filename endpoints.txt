@@ -1,0 +1,3 @@
+NewsAPI endpoint: https://newsapi.org/v2/everything?language=en&apiKey=e96bed54fcd54264baacacbe558034d3&q=covid OR pandemic OR coronavirus
+Gnews.io endpoint: https://gnews.io/api/v4/top-headlines?token=daf68a9f1aacf806578c97b6f3a29a2e&lang=en&topic=health
+newsdata.io endpoint: https://newsdata.io/api/1/news?apikey=pub_587960b140aef344fb505b1adea65eb74d6f&language=en&category=health
